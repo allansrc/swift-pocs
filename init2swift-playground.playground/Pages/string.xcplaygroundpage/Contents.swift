@@ -18,4 +18,8 @@ for char in strName.reversed() {
     print(char)
 }
 
+var concatSRT = "Allan" + ", " + anConstantString
+print(concatSRT)
+print("\(greeting) and \(strName), \(anConstantString)")
+
 //: [Next](@next)
