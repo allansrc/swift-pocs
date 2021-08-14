@@ -5,5 +5,7 @@
         <page name='bool'/>
         <page name='statement'/>
         <page name='functions'/>
+        <page name='types'/>
+        <page name='nil'/>
     </pages>
 </playground>

@@ -2,6 +2,13 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+var i: Int?
+
+i = 2
+print(i)
+
+i = nil
+
+print(i)
 
 //: [Next](@next)
